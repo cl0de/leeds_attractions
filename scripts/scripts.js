@@ -1,0 +1,5 @@
+/* Slider
+----------*/
+$(function() {
+    $('.slider').unslider();
+});

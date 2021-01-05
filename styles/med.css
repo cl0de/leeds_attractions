@@ -1,0 +1,63 @@
+#header-lower{
+	margin-top:87px; 
+	width: 100%;
+	height: 170px;
+	background-color: #ECF6CE;
+	border:1px solid #C2C27A;
+	
+}
+#header-lower-right{
+	width:100%;
+	float: none;
+	height: auto;
+	margin:1% 0 0;
+	padding: 1%;
+	}
+
+ #tel, #signup, #search{
+	display: block;
+	font-weight: bold;
+	color: #393B0B;
+	float: left;
+
+}
+#tel{
+	display: none;
+	font-size: .8em;
+	line-height: 2em;
+	}
+ #tel span{
+	 font-size: 1em;
+	 padding-left:0;
+ }
+#search{
+	width: 40%;
+	display: inline-block;
+	float: right;	
+	}
+#search input[type=text]{
+width: 60%;
+float: left;
+	
+}
+#search button{
+	float: right;
+	width:40%;
+}
+
+
+#search input[type=text], #search button{
+	
+}
+#signup{
+	margin-left:0px;
+	padding: 1%;
+	font-size: 1.1em;
+	line-height: 2em;
+	background-color: #BDFFD2;
+	
+
+}
+#signup a, #tel a{
+	color: #393B0B;
+}
